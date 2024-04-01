@@ -1,7 +1,7 @@
 #### welcome to Ruocong Sun's Github page!
 
 <figure>
-    <img src="https://https://github.com/sungg888/sungg888.github.io/blob/main/img/welcome.webp?raw=true" width="175" height="175">
+    <img src="https://github.com/sungg888/sungg888.github.io/blob/main/img/welcome.png?raw=true" width="220" height="220">
 </figure>
 
 # Technical Projects 
@@ -23,3 +23,5 @@
 ##### - interest_calc(principal, term_length, gic_rate=None): Calculates the interest earned on a GIC after a specified number of years.
 ##### - calculate_gic_difference(term_length_n1, term_length_n2, principal, interest_rate1=None, interest_rate2=None): Calculates the difference in total returns (interest + principal) of a GIC between two different investment periods.
 ##### - gic_plotting(principal, term_lengths, gic_rates=None): Generates a bar plot to visually represent the difference in returns as calculated by interest_calc.
+<be>
+
