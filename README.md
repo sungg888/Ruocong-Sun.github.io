@@ -1,4 +1,9 @@
 #### welcome to Ruocong Sun's Github page!
+
+<figure>
+    <img src="https://https://github.com/sungg888/sungg888.github.io/blob/main/img/welcome.webp?raw=true" width="175" height="175">
+</figure>
+
 # Technical Projects 
 ## Red Wine Quality Prediction
 #### [Github Repository](https://github.com/UBC-MDS/Red-Wine-Quality-Prediction)
