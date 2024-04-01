@@ -1,4 +1,4 @@
-#### welcome to Ruocong Sun's Github page!
+## welcome to Ruocong Sun's Github page!
 
 <figure>
     <img src="https://github.com/sungg888/sungg888.github.io/blob/main/img/welcome.png?raw=true" width="220" height="220">
