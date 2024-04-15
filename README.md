@@ -37,4 +37,4 @@
 - Visual representation of median house price, median square footage, and common home types.
 - Dynamic charts and graphs updating with user input.
 #### Preview
-![](https://github.com/UBC-MDS/DSCI-532_2024_15_dreamhouse/blob/main/img/demo.gif)
+![](https://github.com/sungg888/Ruocong_Sun.github.io/blob/main/img/Dreamhouse%20Demostration.gif)
