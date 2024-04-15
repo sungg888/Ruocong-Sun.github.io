@@ -23,5 +23,16 @@
 ##### - interest_calc(principal, term_length, gic_rate=None): Calculates the interest earned on a GIC after a specified number of years.
 ##### - calculate_gic_difference(term_length_n1, term_length_n2, principal, interest_rate1=None, interest_rate2=None): Calculates the difference in total returns (interest + principal) of a GIC between two different investment periods.
 ##### - gic_plotting(principal, term_lengths, gic_rates=None): Generates a bar plot to visually represent the difference in returns as calculated by interest_calc.
-<be>
+<br>
 
+## Dream House Dashboard
+#### [Github Repository](https://github.com/UBC-MDS/DSCI-532_2024_15_dreamhouse)
+#### [Dashboard](https://dsci-532-2024-15-dreamhouse.onrender.com/)
+#### - This dashboard presents an interactive visualization of housing prices across the top 50 most populous cities in the United States of America. Our dashboard is built using the Dash package, enabling users to filter and explore the housing market data across various dimensions, such as state, city, house type, square footage, number of bedrooms and bathrooms, and more.
+#### - The dashboard is designed to help display the key statistics of the real-estate market as well as a map of the selected area and a bar graph outlining the average price of listings in the selected area. The dashboard makes it easy to filter the data by state, city, square footage, price range, price per square foot, median household income of the zip code, number of bedrooms, and number of bathrooms. Once you have selected the criteria of your dream home, the dashboard will update to display the price of corresponding homes, their locations, and the summary statistics of all those homes that fit your selection.
+#### - Features in dashboard
+- Interactive map visualizing average housing prices by region.
+- Filterable options for state and city selection.
+- Detailed pricing across top cities and a comparative list by states.
+- Visual representation of median house price, median square footage, and common home types.
+- Dynamic charts and graphs updating with user input.
