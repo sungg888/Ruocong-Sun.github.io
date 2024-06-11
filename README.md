@@ -38,6 +38,7 @@
 - Dynamic charts and graphs updating with user input.
 #### Preview
 ![](https://github.com/sungg888/Ruocong_Sun.github.io/blob/main/img/Dreamhouse%20Demostration.gif)
+
 <br>
 
 ## Evaluation model and AI agent for Autozen
@@ -46,3 +47,4 @@
 #### - Company Background: Autozen, a digital startup, seeks to revolutionize the used car market by optimizing car valuations and the negotiation process, addressing information asymmetry with a data-driven solution to predict car prices accurately and improve transparency.
 #### - Technical Implementation: The project employs data engineering and a log-normal regression model to predict car values, creating a pickle file and building an endpoint for Autozen to deploy the model. It also integrates LLM for explaining price predictions with coefficient explanations, alongside test files to ensure model functionality and a Flask dashboard for demonstrating the final product.
 #### - Results: The main results are increased price prediction accuracy, streamlined auction and explanation processes, enhanced user experience, and reduced operational costs for Autozen.
+<br>
